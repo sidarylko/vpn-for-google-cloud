@@ -4,7 +4,6 @@
 cd
 
 # THIS SCRIPT HAS BEEN MADED BY HAJIMXMIKU IF YOU WANT TO EDIT PLEASE ASK A PERMISSION FIRST,YOU ARE FREE TO USE THIS SCRIPT
-
 # disable ipv6
 echo 1 > /proc/sys/net/ipv6/conf/all/disable_ipv6
 sed -i '$ i\echo 1 > /proc/sys/net/ipv6/conf/all/disable_ipv6' /etc/rc.local
